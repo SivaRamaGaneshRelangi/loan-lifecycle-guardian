@@ -82,7 +82,7 @@ http://127.0.0.1:8000/docs
 
 ## Important Notes
 
-This is a hackathon prototype using fictional sample data and a deterministic, rule-based workflow. It is not yet a production banking system or a fully implemented LLM-based agent.
+This is a prototype using fictional sample data and a deterministic, rule-based workflow. It is not yet a production banking system or a fully implemented LLM-based agent.
 
 Approval requests and audit events are stored in memory and are cleared when the server restarts. Proposed actions are not executed against real banking systems. Guardrails prevent certain unsafe actions from being approved in the demo.
 
