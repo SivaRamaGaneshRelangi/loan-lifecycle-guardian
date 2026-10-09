@@ -1,0 +1,50 @@
+[
+{
+"loan_id": "L1001",
+"customer_id": "C1001",
+"loan_type": "PERSONAL",
+"principal": 300000,
+"interest_rate": 12.0,
+"tenure_months": 12,
+"emi_amount": 26655,
+"outstanding": 225000,
+"status": "ACTIVE",
+"scenario": "NORMAL"
+},
+{
+"loan_id": "L1002",
+"customer_id": "C1002",
+"loan_type": "PERSONAL",
+"principal": 200000,
+"interest_rate": 11.5,
+"tenure_months": 24,
+"emi_amount": 9360,
+"outstanding": 200000,
+"status": "PENDING_DOCUMENTS",
+"scenario": "MISSING_DOCUMENTS"
+},
+{
+"loan_id": "L1003",
+"customer_id": "C1003",
+"loan_type": "VEHICLE",
+"principal": 500000,
+"interest_rate": 10.5,
+"tenure_months": 36,
+"emi_amount": 16250,
+"outstanding": 310000,
+"status": "ACTIVE",
+"scenario": "EMI_FAILURE"
+},
+{
+"loan_id": "L1004",
+"customer_id": "C1004",
+"loan_type": "HOME",
+"principal": 2500000,
+"interest_rate": 8.5,
+"tenure_months": 120,
+"emi_amount": 30995,
+"outstanding": 0,
+"status": "CLOSURE_PENDING",
+"scenario": "COLLATERAL_BLOCK"
+}
+]

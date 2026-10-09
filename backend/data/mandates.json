@@ -1,0 +1,30 @@
+[
+{
+"mandate_id": "M1001",
+"loan_id": "L1001",
+"status": "ACTIVE",
+"bank_account_last4": "1234",
+"provider": "SIMULATED_GATEWAY"
+},
+{
+"mandate_id": "M1002",
+"loan_id": "L1002",
+"status": "ACTIVE",
+"bank_account_last4": "2345",
+"provider": "SIMULATED_GATEWAY"
+},
+{
+"mandate_id": "M1003",
+"loan_id": "L1003",
+"status": "INACTIVE",
+"bank_account_last4": "3456",
+"provider": "SIMULATED_GATEWAY"
+},
+{
+"mandate_id": "M1004",
+"loan_id": "L1004",
+"status": "ACTIVE",
+"bank_account_last4": "4567",
+"provider": "SIMULATED_GATEWAY"
+}
+]

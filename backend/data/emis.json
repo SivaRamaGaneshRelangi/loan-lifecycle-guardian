@@ -1,0 +1,31 @@
+[
+{
+"emi_id": "EMI1001",
+"loan_id": "L1001",
+"due_date": "2026-10-05",
+"amount": 26655,
+"status": "PAID"
+},
+{
+"emi_id": "EMI1002",
+"loan_id": "L1002",
+"due_date": "2026-10-10",
+"amount": 9360,
+"status": "NOT_STARTED"
+},
+{
+"emi_id": "EMI1003",
+"loan_id": "L1003",
+"due_date": "2026-10-05",
+"amount": 16250,
+"status": "FAILED"
+},
+{
+"emi_id": "EMI1004",
+"loan_id": "L1004",
+"due_date": "2026-10-01",
+"amount": 30995,
+"status": "NOT_DUE"
+}
+]
+

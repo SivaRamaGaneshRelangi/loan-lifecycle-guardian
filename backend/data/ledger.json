@@ -1,0 +1,25 @@
+[
+{
+"entry_id": "LED1001",
+"loan_id": "L1001",
+"entry_type": "EMI_PAYMENT",
+"amount": 26655,
+"status": "POSTED"
+},
+{
+"entry_id": "LED1002",
+"loan_id": "L1003",
+"entry_type": "EMI_PAYMENT",
+"amount": 16250,
+"status": "REJECTED"
+},
+{
+"entry_id": "LED1003",
+"loan_id": "L1004",
+"entry_type": "LOAN_CLOSURE",
+"amount": 0,
+"status": "PENDING",
+"block_reason": "COLLATERAL_LIEN_ACTIVE",
+"collateral_status": "LIEN_ACTIVE"
+}
+]

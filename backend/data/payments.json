@@ -1,0 +1,19 @@
+[
+{
+"payment_id": "PAY1001",
+"loan_id": "L1001",
+"emi_id": "EMI1001",
+"amount": 26655,
+"status": "SUCCESS",
+"transaction_reference": "TXN-DEMO-1001"
+},
+{
+"payment_id": "PAY1002",
+"loan_id": "L1003",
+"emi_id": "EMI1003",
+"amount": 16250,
+"status": "FAILED",
+"failure_reason": "MANDATE_INACTIVE",
+"transaction_reference": "TXN-DEMO-1002"
+}
+]

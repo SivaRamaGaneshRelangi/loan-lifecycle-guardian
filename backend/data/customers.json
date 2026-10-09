@@ -1,0 +1,38 @@
+[
+{
+"customer_id": "C1001",
+"name": "Rahul Kumar",
+"age": 29,
+"city": "Hyderabad",
+"email": "[rahul.demo@example.com](mailto:rahul.demo@example.com)",
+"kyc_status": "VERIFIED",
+"employment_type": "SALARIED"
+},
+{
+"customer_id": "C1002",
+"name": "Priya Sharma",
+"age": 34,
+"city": "Bengaluru",
+"email": "[priya.demo@example.com](mailto:priya.demo@example.com)",
+"kyc_status": "PENDING",
+"employment_type": "SALARIED"
+},
+{
+"customer_id": "C1003",
+"name": "Arjun Reddy",
+"age": 31,
+"city": "Kadapa",
+"email": "[arjun.demo@example.com](mailto:arjun.demo@example.com)",
+"kyc_status": "VERIFIED",
+"employment_type": "SELF_EMPLOYED"
+},
+{
+"customer_id": "C1004",
+"name": "Sneha Patel",
+"age": 27,
+"city": "Pune",
+"email": "[sneha.demo@example.com](mailto:sneha.demo@example.com)",
+"kyc_status": "VERIFIED",
+"employment_type": "SALARIED"
+}
+]
