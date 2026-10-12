@@ -1,0 +1,4 @@
+# Optional integrations. Install only what your deployment uses.
+google-genai>=1.0.0
+pyodbc>=5.0.0
+psycopg2-binary>=2.9.9

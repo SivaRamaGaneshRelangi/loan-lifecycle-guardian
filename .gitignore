@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local secrets and environment-specific settings. Keep the safe template.
+.env
+.env.*
+!.env.example
+
+# Local Python environments and tooling output.
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local databases and customer-uploaded documents (may contain personal data).
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+uploads/
+test_uploads/
+
+# Private keys and certificates.
+*.pem
+*.key
+*.p12
+*.pfx
